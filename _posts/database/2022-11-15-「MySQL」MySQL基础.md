@@ -1,3 +1,17 @@
+---
+layout:     post
+title:      "「MySQL」 MySQL基础"
+subtitle:   "MySQL基础"
+date:       2022-04-27 12:00:00
+author:     "yosin"
+header-img: "img/post-bg-html-css.jpg"
+katex: true
+tags:
+    - MySQL
+---
+
+
+
 ## MySQL基础
 
 ### 事务
